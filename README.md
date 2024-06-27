@@ -1,0 +1,1 @@
+This project demonstrates Mobile Access Voice Command Controlled Automatic Door. The door will be automatically opened or closed when a voice command is sent through the app in an android phone. We are using servo motor to control the door opening and closing operation & Bluetooth module to receive voice command from phone and send it to servo motor via FRDM-K64F board.
